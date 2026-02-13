@@ -76,7 +76,7 @@ background-color: #A6B1E1;
 }
 
 .msg-container{
-    height:100vmin;
+    height:150vmin;
     display:flex;
     flex-direction: column;
     justify-content: center;
@@ -87,4 +87,5 @@ background-color: #A6B1E1;
 
 .hide{
     display: none;
+
 }
