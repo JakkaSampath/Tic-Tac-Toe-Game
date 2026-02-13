@@ -10,7 +10,7 @@ body{
 }
 
 .container{
-    height: 100vh;
+    height: 80vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -89,6 +89,7 @@ background-color: #A6B1E1;
     display: none;
 
 }
+
 
 
 
