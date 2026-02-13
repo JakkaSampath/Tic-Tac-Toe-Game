@@ -10,7 +10,7 @@ body{
 }
 
 .container{
-    height: 80vh;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -76,7 +76,7 @@ background-color: #A6B1E1;
 }
 
 .msg-container{
-    height:150vmin;
+    height:100vmin;
     display:flex;
     flex-direction: column;
     justify-content: center;
@@ -89,3 +89,4 @@ background-color: #A6B1E1;
     display: none;
 
 }
+
